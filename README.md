@@ -115,7 +115,7 @@ prediction('DecisionTree', 1990, 1485.0, 121.0, 16.37, 'Albania', 'Maize')
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/crop-yield-prediction.git
+git clone https://github.com/mostafashazly7/crop-yield-prediction-ml
 ```
 
 2. Install dependencies:
@@ -137,7 +137,7 @@ pip install -r requirements.txt
 ## 👤 Author
 **Mostafa Shazly**
 
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/mostafashazly7
 
 ---
 
